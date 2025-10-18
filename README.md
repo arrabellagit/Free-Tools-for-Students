@@ -1,11 +1,11 @@
-Quick Counter Tools | Free Online Utilities
+**[Quick Counter Tools](https://quickcountertools.com/) | Free Online Utilities**
 
 Welcome to **Quick Counter Tools**, your one-stop platform for fast, secure, and free online tools. Whether you're a creator, student, blogger, or developer, our tools help you work smarter and faster.
 
 ## 🚀 Our Tools
 
-### 1. **Image Converter**
-Convert images instantly between formats like HEIC, JPG, PNG, and WEBP. No software installation required — everything runs securely in your browser.
+### 1. **[Free Image Converter](https://quickcountertools.com/image-converter/)**
+Convert images instantly between formats like convert HEIC to JPG, PNG, and WEBP. No software installation required — everything runs securely in your browser.
 
 👉 **Try it now:** Free Image Converter
 
